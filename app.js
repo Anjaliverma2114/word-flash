@@ -1,5 +1,4 @@
-// Developed By Engineer Elhamuddin Taheri
-// B.Sc in Software Engineering (Kabul University)
+//Anjaliverma
 let word = document.getElementById('word')
 let mean = document.getElementById('mean')
 let btn = document.getElementById('btn')
